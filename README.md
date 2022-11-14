@@ -56,11 +56,20 @@ De esos 69: 6 superaban el límite de altura, 16 renunciaron y 15 fueron elimina
 
 ![Selección](https://github.com/ProyectoMercury/Clase-14/blob/main/svg/seleccion4.svg?raw=true)
 
+--- 
 
 ### EL EQUIPO: LOS 7 VALIENTES
+Elegidos de un grupo de más de 110 pilotos militares, debido a su experiencia en vuelos de prueba y por las características físicas necesarias que mantenían. En 1957 se seleccionaron 7 astronautas para las misiones Mercury:
 
+![Astronautas](https://github.com/ProyectoMercury/Clase-14/blob/main/img/astronautas.jpg?raw=true)
 
+Solamente volaron 6 de los 7 astronautas seleccionados. Deke Slayton fue descartado de la lista de vuelos debido a un problema de corazón.
 
+#### PREOCUPACIONES
+
+- Los ingenieros estadounidenses se vieron presionados ante los desafíos que implicaban la construcción de una nave segura que permitiera a un astronauta llegar hasta la órbita terrestre sin ser destruido por las enormes aceleraciones que ello implicaba. 
+- Las situaciones extremas propias del ambiente espacial: el vacío, las bruscas fluctuaciones de temperatura y la recién descubierta radiación espacial. 
+- La necesidad de realizar una reentrada a la atmósfera a alta velocidad y proteger al astronauta de las altas temperaturas de reentrada mediante el uso de escudos de protección térmica.
 
 --- 
 
@@ -68,8 +77,6 @@ De esos 69: 6 superaban el límite de altura, 16 renunciaron y 15 fueron elimina
 
 ![image](https://user-images.githubusercontent.com/111382126/197552233-255123ac-d9c6-4b7f-8539-aa7cac3fa9a8.png)
 
-![Discurso Presidente John F.Kennedy](https://github.com/Programa-Apolo/clase-14/blob/main/img/Kennedy.jpg?raw=true)
-El inicio de la carrera espacial se hizo efectivo con el lanzamiento soviético del primer satélite, Sputnik 1. Frente a esta desventaja, Estados Unidos aplicó medidas inmediatas. El 25 de mayo de 1961, el presidente John F. Kennedy anunció el objetivo de enviar un hombre a la luna, y traerlo de vuelta a salvo antes de que finalice la década.
 
 ---
 
