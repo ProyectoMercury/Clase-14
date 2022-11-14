@@ -26,6 +26,43 @@ Un vuelo suborbital es aquel que va más allá de la atmósfera terreste y llega
 
 
 ---
+### EL EQUIPO: PROCESO DE SELECCIÓN
+#### Requisitos
+
+Para poder seleccionar a los que serían los encargados de tripular las misiones, se debieron de definir distintos requisitos obligatorios para todo el que fuera un posible candidato.
+- 1- Tener menos de 40 años
+- 2- Medir menos de 1,80m
+- 3- Contar con excelente condición física
+- 4- Poseer un grado de licenciatura o equivalente
+- 5- Estar graduado de la escuela de pilotos de pruebas
+- 6- Acreditar un mínimo de 1500 horas de vuelo total
+- 7- Ser un piloto reactor cualificado
+
+#### Proceso
+
+Con estos requisitos la búsqueda empezó al revisar los expedientes de 508 pilotos de pruebas militares:
+![Selección](https://github.com/ProyectoMercury/Clase-14/blob/main/svg/seleccion1.svg?raw=true)
+
+508 pilotos de pruebas militares (225 Fuerza Aérea, 225 Armada, 23 Cuerpo de Marines, 35 Ejército).
+De estos se seleccionaron a 110 pilotos  (5 Marines, 47 de la Armada y 58 de la Fuerza Aérea) que se consideraron que cumplían con los requisitos necesarios. 
+
+![Selección](https://github.com/ProyectoMercury/Clase-14/blob/main/svg/seleccion2.svg?raw=true)
+
+Este selección se dividió en 3 grandes grupos, de los cuales sólo los 2 primeros participaron en reuniones informativas y de capacitación primaria sobre las misiones. Así se descartó automáticamente al tercer grupo de 41 pilotos. Continuando con 69 candidatos.
+
+![Selección](https://github.com/ProyectoMercury/Clase-14/blob/main/svg/seleccion3.svg?raw=true)
+
+De esos 69: 6 superaban el límite de altura, 16 renunciaron y 15 fueron eliminados por otras razones. Dejando así a la NASA con 32 candidatos (15 Armada, 15 Fuerza Aérea, 2 Marines). Estos a continuación realizaron una serie de agotadoras pruebas físicas y psicológicas, dejando a 18 candidatos, de los cuales no pudieron elegir solo a 6, por lo que se terminaron seleccionando a los 7 valientes finalistas quienes se convirtieron en los primeros astronautas Estadounidenses.
+
+![Selección](https://github.com/ProyectoMercury/Clase-14/blob/main/svg/seleccion4.svg?raw=true)
+
+
+### EL EQUIPO: LOS 7 VALIENTES
+
+
+
+
+--- 
 
 ## LOS COHETES
 
