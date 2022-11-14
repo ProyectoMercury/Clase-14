@@ -1,10 +1,3 @@
-# Clase-14
-
-Gráfico que representa el proceso de selección de los tripulantes
-https://docs.google.com/spreadsheets/d/e/2PACX-1vR9uYp5yFSqdXWPhAp-Wi_5o7crKOye-TTJYag39q88gGHhcACuANyZT3ky5-qG9hVD4KoW1dOxPY5D/pubchart?oid=1776384602&format=interactive
-
-Sabemos que este no es el gráfico ideal para representar el proceso de avance de la selección de los candidatos en las distintas etapas, seguiremos trabajando en busacr una mejor manera de entregar esta información
-
 ![Portada](https://github.com/ProyectoMercury/Clase-14/blob/main/img/portada.jpg?raw=true)
 # Una carrera de vida o muerte por la supremacía espacial contra la Unión Soviética.
  
@@ -72,6 +65,26 @@ Solamente volaron 6 de los 7 astronautas seleccionados. Deke Slayton fue descart
 - La necesidad de realizar una reentrada a la atmósfera a alta velocidad y proteger al astronauta de las altas temperaturas de reentrada mediante el uso de escudos de protección térmica.
 
 --- 
+### LA NAVE
+
+Vehículo de forma balística sin alas que haría su reentrada a la atmósfera protegido de un escudo térmico que se quemaría durante esta etapa. Mercury fue diseñado por Max Faget, y fue más versátil y con instrumentos más avanzados que su rival soviética Vostok.
+Las cápsulas Mercury utilizaron dos tipos de cohetes lanzadores:
+
+
+1. Los primeros vuelos suborbitales fueron lanzados por cohetes Redstone diseñados por el equipo de Wernher von Braun en Huntsville, Alabama. 
+
+
+![Relleno](https://github.com/ProyectoMercury/Clase-14/blob/main/img/image.jpg?raw=true)
+
+2. Para los vuelos orbitales, las cápsulas fueron lanzadas con los Atlas-D, unos cohetes modificados a partir de un misil balístico. Su cubierta de acero era muy delgada para ahorrar peso, por lo que la estabilidad estructural se la proporcionaba la presión del combustible interior (cuando estaba vacío debía ser presurizado con gas para evitar el colapso del lanzador). Este mismo problema lo tendría la siguiente familia de lanzadores para el programa Gemini: los Titan II.
+
+
+![Relleno](https://github.com/ProyectoMercury/Clase-14/blob/main/img/image.jpg?raw=true)
+
+## LA CÁPSULA
+
+![image](https://user-images.githubusercontent.com/111382126/197552527-1f0fb65d-c9d9-43b1-bfa2-5ea8631ef30a.png)
+
 
 ## LOS COHETES
 
@@ -81,48 +94,45 @@ Solamente volaron 6 de los 7 astronautas seleccionados. Deke Slayton fue descart
 ---
 
 
-### Misiones Apolo
-#### Apolo 1-10
->**Gráfico linea temporal=** Aquí explicaremos hasta donde llego cada misión antes del Apolo 11
+### MISIONES PROGRAMA MERCURY
+
+>**Gráfico linea temporal=** 
+
+![image](https://user-images.githubusercontent.com/111382126/196279712-211f3204-b947-4661-8305-c0ad2a8f5dd4.png)
+
+## EL FINAL DEL PROGRAMA
+
+El último vuelo de una nave del proyecto Mercury fue el del Mercury Atlas 9 en la cápsula Faith 7 con L. Gordon Cooper, Jr. el 15 de mayo de 1963, una misión que concluyó al día siguiente. Una vez finalizado el proyecto, la atención del programa de vuelos había cambiado cuando el presidente John F. Kennedy anunciara durante una sesión del Congreso la meta de llevar un estadounidense a la Luna y traerlo a salvo de vuelta.
 
 
-#### Apolo 11
->**Ruta del viaje=** Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelta a la Tierra. En esta ruta se incluirá la explicación de las partes de la nave Saturno 11 a medida que se ivan separando del Apollo 11.
-![Apolo 11](https://raw.githubusercontent.com/Programa-Apolo/clase-14/main/img/Ruta-01.jpg)
+Para 1963, solamente 500 de las 2500 personas trabajando en el Centro de Vuelos Tripulados de la NASA seguían trabajando para el programa Mercury (los 2000 restantes estaban ocupados trabajando en los programas Gemini y Apolo con los que la NASA lograría mayores avances y su única victoria frente a los soviéticos).
 
+![Trabajadores](https://github.com/ProyectoMercury/Clase-14/blob/main/img/trabajadores.png?raw=true)
 
-#### Apolo 13-17
-**Hitos más importantes por destacar**
-Todas las fotografías mostradas en este README serán en realidad ilustraciones
+## Conclusión
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
 
-- Apolo 13 (viaje fallido)
-![Apolo 13](https://github.com/Programa-Apolo/clase-14/blob/main/img/Apolo%2013.jpeg?raw=true)
-- Apolo 15 ("auto")
-![Apolo 15_proporciones](https://raw.githubusercontent.com/Programa-Apolo/clase-14/5ef65aa44761b30f93764e798389a3199da55556/svg/proporcion%20rovin%202.svg)
-![Apolo 15_rovin](https://raw.githubusercontent.com/Programa-Apolo/clase-14/5ef65aa44761b30f93764e798389a3199da55556/svg/rover.svg)
-- Apolo 17 (avances cientificos gracias a las extracciones de rocas)
-![Apolo 17](https://github.com/Programa-Apolo/clase-14/blob/main/img/Piedras.jpeg?raw=true)
+![Final](https://github.com/ProyectoMercury/Clase-14/blob/main/img/finalmundo.jpg?raw=true)
 
----
+### Siguente paso
+## Llegar a la Luna
+**[Programa Apolo](https://github.com/Programa-Apolo/clase-14/)**
 
-
-### La tripulación
-![Tripulación](https://raw.githubusercontent.com/Programa-Apolo/clase-14/99dce36fa2a3efff3b9642ffad4a75205d23e41c/svg/Tripulacion_cantidad.svg)
-![Perfiles](https://github.com/Programa-Apolo/clase-14/blob/main/img/perfiles.jpg?raw=true)
-![Perfiles](https://raw.githubusercontent.com/Programa-Apolo/clase-14/e093cd07e0dc1b5b88f0fe1b1fc268a479cbeb3d/svg/P1.svg)
-texto sobre como una gran parte de la tripulación participó en los programas anteriores de la NASA, así mismo como algunos de ellos viajaron en más de una misión Apolo, destacando a los más importantes a través de perfiles con un poco más de información detallada acerca de su experiencia
+![Final](https://github.com/ProyectoMercury/Clase-14/blob/main/img/apolo.jpg?raw=true)
 
 
 ---
 
+**FUENTES**
 
-### Fin del Apolo
-![Apollo Soyuz](https://github.com/Programa-Apolo/clase-14/blob/main/img/soyuz.jpg?raw=true)
+https://knuth.uca.es/moodle/mod/page/view.php?id=4500&lang=es
 
-texto fin del programa Apolo y próximamente de la carrera espacial contra la URSS
+https://www.hq.nasa.gov/office/pao/History/40thann/humanspf.htm
 
+https://history.nasa.gov/SP-4001/contents.htm
 
----
+https://web.archive.org/web/20151027034642/http://history.nasa.gov/SP-4003/toc.htm
 
-texto final
+https://danielmarin.naukas.com/2012/02/22/los-vuelos-suborbitales-que-nunca-fueron/
 
+https://es.wikipedia.org/wiki/Mercury_Seven
