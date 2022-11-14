@@ -18,10 +18,18 @@ El Proyecto Mercury fue el primer programa espacial, dirigido por la N.A.S.A., d
 El programa tenía por objetivo principal ser capaz de realizar vuelos orbitales en aeronaves tripuladas, alrededor de la tierra, y recuperar al piloto de forma segura con el fin de estudiar las capacidades del ser humano en el ambiente espacial. 
 Mientras tanto, la Unión Soviética desarrollaba en paralelo su propio programa con intención de colocar al primer hombre en el espacio, el Proyecto Vostok con un plan de desarrollo análogo.
 
+![orbitales](https://github.com/ProyectoMercury/Clase-14/blob/main/img/orbital.jpg?raw=true)
+#### VUELOS ORBITALES Y SUBORBITALES
+
+Los vuelos realizados en el Proyecto Mercury se pueden clasificar en dos tipos distintos, suborbitales y orbitales.
+Un vuelo suborbital es aquel que va más allá de la atmósfera terreste y llega a alcanzar hasta 100km de altura. El primero de esta categoría fue parte del Programa Mercury, en 1961. Por otro lado, los vuelos orbitales son los vuelos que  llegan a alturas que permitirían una trayectoria que alcanzaría al menos una órbita. El primer vuelo espacial orbital del Proyecto Mercury fue el Mercury Atlas 7, el 24 de mayo de 1962.
 
 
 ---
 
+## LOS COHETES
+
+![image](https://user-images.githubusercontent.com/111382126/197552233-255123ac-d9c6-4b7f-8539-aa7cac3fa9a8.png)
 
 ![Discurso Presidente John F.Kennedy](https://github.com/Programa-Apolo/clase-14/blob/main/img/Kennedy.jpg?raw=true)
 El inicio de la carrera espacial se hizo efectivo con el lanzamiento soviético del primer satélite, Sputnik 1. Frente a esta desventaja, Estados Unidos aplicó medidas inmediatas. El 25 de mayo de 1961, el presidente John F. Kennedy anunció el objetivo de enviar un hombre a la luna, y traerlo de vuelta a salvo antes de que finalice la década.
